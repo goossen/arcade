@@ -1,4 +1,4 @@
-#arcade
+# Arcade
 
 A RetroPie based arcade cabinet.
 
